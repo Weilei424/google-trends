@@ -1,4 +1,4 @@
-package google_trends
+package main
 
 import (
 	"encoding/xml"
